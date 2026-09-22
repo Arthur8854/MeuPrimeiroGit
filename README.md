@@ -10,7 +10,7 @@ e páginas HTML e arquivos CSS na pasta `src`.
 ## Desenvolvimento
 
 Até o momento foram desenvolvidas:
-
+git
 - Estrutura inicial do projeto;
 - Documentação dos produtos;
 - Página de produtos;
